@@ -11,3 +11,6 @@ use diff tool
 
 ### Copyright
 2018 Git.Train
+
+###Path
+fixed bugs
