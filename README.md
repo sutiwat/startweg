@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Test Read me Edit
 use diff tool
+
+### Copyright
+2018 Git.Train
